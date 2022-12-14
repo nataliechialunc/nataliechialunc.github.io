@@ -26,5 +26,5 @@ Infants with early-low and catch-up, or below average BMI growth, were at increa
 
 [Read paper here](https://onlinelibrary.wiley.com/doi/10.1111/pai.13765)
 
-Recommended citation: Chang C-L, Ali GB, Lodge CJ, et al. Associations between Body Mass Index Trajectories in the first two years of life and Allergic Rhinitis, Eczema and Food Allergy outcomes up to early adulthood. Pediatr Allergy Immunol. 2022;33:e13765. doi:10.1111/pai.1376.
+
 
