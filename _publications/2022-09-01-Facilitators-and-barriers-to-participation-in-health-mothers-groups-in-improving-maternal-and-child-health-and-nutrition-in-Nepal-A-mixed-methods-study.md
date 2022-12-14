@@ -2,7 +2,7 @@
 title: "Facilitators and barriers to participation in health mothers’ groups in improving maternal and child health and nutrition in Nepal: A mixed-methods study"
 collection: publications
 permalink: /publication/2022-09-01-Facilitators-and-barriers-to-participation-in-health-mothers-groups-in-improving-maternal-and-child-health-and-nutrition-in-Nepal-A-mixed-methods-study
-excerpt: 'Main findings: Enhancing Female Community Health Volunteers' literacy, providing advance notice of the meeting schedule, upgrading the meeting venues and reducing women’s workload through family support, particularly during agricultural season may help to improve health mother's groups participation.'
+excerpt: 'Main findings: Improveing health mothers' groups participation require to address factors across individual, interpersonal, and community level.'
 date: 2022-09-01
 venue: 'BMC Public Health'
 paperurl: 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13859-6'
@@ -24,4 +24,3 @@ To improve women’s participation in HMGs in Nepal, it is necessary to address 
 
 [Read paper here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13859-6)
 
-Recommended citation: 'Acharya A, Chang C-L, Chen M, Weissman A. Facilitators and barriers to participation in health mothers’ groups in improving maternal and child health and nutrition in Nepal: A mixed-methods study. BMC Public Health. 2022;22(1):1-1.'
