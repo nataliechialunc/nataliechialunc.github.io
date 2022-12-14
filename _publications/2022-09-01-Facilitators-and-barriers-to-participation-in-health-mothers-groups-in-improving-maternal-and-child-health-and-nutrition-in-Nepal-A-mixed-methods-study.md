@@ -2,7 +2,7 @@
 title: "Facilitators and barriers to participation in health mothers’ groups in improving maternal and child health and nutrition in Nepal: A mixed-methods study"
 collection: publications
 permalink: /publication/2022-09-01-Facilitators-and-barriers-to-participation-in-health-mothers-groups-in-improving-maternal-and-child-health-and-nutrition-in-Nepal-A-mixed-methods-study
-excerpt: 'Main findings: Children with maternal allergic rhinitis and belonging to the ‘early-low and catch-up’ or ‘below average’ body mass index trajectory in the first 2 years of life require close monitoring as they are at higher risk of developing allergic rhinitis at 18 years of age.'
+excerpt: 'Main findings: To improve women’s participation in HMGs in Nepal, it is necessary to address factors at the SEM’s individual, interpersonal, and community levels, such as enhancing Female Community Health Volunteers' literacy, providing advance notice of the meeting schedule, upgrading the meeting venues and reducing women’s workload through family support, particularly during agricultural season.'
 date: 2022-09-01
 venue: 'BMC Public Health'
 paperurl: 'https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-022-13859-6'
