@@ -1,8 +1,8 @@
 ---
 permalink: /contact/
-title: "contact"
+title: "Contact me"
 author_profile: true
 ---
 
-# Contact me
+
 - email: chialunchang43@gmail.com
