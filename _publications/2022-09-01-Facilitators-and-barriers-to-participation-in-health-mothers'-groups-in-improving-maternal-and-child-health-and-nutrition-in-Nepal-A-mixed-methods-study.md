@@ -1,7 +1,7 @@
 ---
 title: "Facilitators and barriers to participation in health mothers’ groups in improving maternal and child health and nutrition in Nepal: A mixed-methods study"
 collection: publications
-permalink: /publication/2022-09-01-Facilitators-and-barriers-to-participation-in-health-mothers-groups-in-improving-maternal-and-child-health-and-nutrition-in-Nepal-A-mixed-methods-study
+permalink: /publication/2022-09-01-Facilitators-and-barriers-to-participation-in-health-mothers'-groups-in-improving-maternal-and-child-health-and-nutrition-in-Nepal-A-mixed-methods-study
 excerpt: 'Main findings: Improveing health mothers' groups participation require to address factors across individual, interpersonal, and community level.'
 date: 2022-09-01
 venue: 'BMC Public Health'
