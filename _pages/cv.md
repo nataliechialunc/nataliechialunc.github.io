@@ -16,26 +16,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021: Research Assistant
+  * Taiwan Young Pharmacists' Association & Taiwan Society of Health-System Pharmacists
+  * Duties included: Conducting a systematic review on pharmaceutical care practices in Taiwan
+  * Supervisor: Associate Professor Elizabeth Chang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020: Project Officer
+  * Taichung National Health Insurance Contracted Pharmacy Association
+  * Duties included: Implemented a nationwide project supervised by the Health Promotion Administration, Ministry of Health and Welfare: Facilitating Health  Promotion in Community Pharmacy Initiative
   
 Skills
 ======
 * Biostatistics
 * Epidemiology
+* Economic Evaluation
 * Programming Languages
   * STATA
   * R
 * Languages
   * English
-  * Mandarian 
+  * Chinese
 
 Publications
 ======
