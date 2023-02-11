@@ -1,7 +1,7 @@
 ---
 title: "Is antenatal or early-life vitamin D associated with eczema or food allergy in childhood? A systematic review"
 collection: publications
-permalink: /publication/2023-01-17-Is-antenatal-or-early-life-vitamin-D-associated-with-eczema-or-food-allergy-in-childhood?-A-systematic-review
+permalink: /publication/2023-01-17-Is-antenatal-or-early-life-vitamin-D-associated-with-eczema-or-food-allergy-in-childhood-A-systematic-review
 excerpt: 'Main findings: A lower level of cord blood vitamin D is a risk factor for developing eczema in childhood.'
 date: 2023-01-17
 venue: 'Clinical Experimental & Allergy'
