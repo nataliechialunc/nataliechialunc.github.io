@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Natalie's Blog"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Natalie Chang"
 description              : &description "MSc (Epi) BSC (Pharm)"
