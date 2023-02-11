@@ -8,7 +8,9 @@ venue: 'Clinical Experimental & Allergy'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/cea.14281'
 citation: 'Zeng R, Li Y, Shen S, Qiu X, Chang CL, Koplin JJ, Perrett KP, Dharmage SC, Lodge CJ, Lowe AJ. Is antenatal or early-life vitamin D associated with eczema or food allergy in childhood? A systematic review. Clinical and experimental allergy: journal of the British Society for Allergy and Clinical Immunology.'
 ---
+
 # Abstract
+
 ## Objectives
 To summarise the associations between antenatal or early-life blood vitamin D and the development of eczema/food allergy in childhood.
 
