@@ -6,7 +6,7 @@ excerpt: 'Main findings: Children with maternal allergic rhinitis and belonging 
 date: 2022-03-07
 venue: 'Pediatric Allergy & Immunology'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/pai.13765'
-citation: '**Chang CL**, Ali GB, Lodge CJ, Abramson MJ, Erbas B, Tang ML, Svanes C, Bui DS, Dharmage SC, Lowe AJ. Associations between Body Mass Index Trajectories in the first two years of life and Allergic Rhinitis, Eczema and Food Allergy outcomes up to early adulthood. Pediatric Allergy and Immunology. 2022 Mar;33(3):e13765. doi:10.1111/pai.1376.'
+citation: 'Chang C-L, Ali GB, Lodge CJ, Abramson MJ, Erbas B, Tang ML, Svanes C, Bui DS, Dharmage SC, Lowe AJ. Associations between Body Mass Index Trajectories in the first two years of life and Allergic Rhinitis, Eczema and Food Allergy outcomes up to early adulthood. Pediatric Allergy and Immunology. 2022 Mar;33(3):e13765. doi:10.1111/pai.1376.'
 ---
 # Abstract
 ## Background
