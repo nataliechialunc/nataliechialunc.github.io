@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Natalie (Chia-Lun) Chang has a Master of Science (Epidemiology) degree from the University of Melbourne, and she has excellent 
+Chia-Lun (Natalie) Chang has a Master of Science (Epidemiology) degree from the University of Melbourne, and she has excellent 
 educational credentials in epidemiology and biostatistics. She aspires to become the next generation public health 
 researcher in the allergy field. Her research focuses on the early life determinants of allergic diseases, which helps to 
 reduce the burden of allergies in children.
