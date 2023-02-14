@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* BSc. in Pharmacy, Chia Nan University of Science, 2013
+* BSc. in Pharmacy, Chia Nan University of Science, 2017
 * MSc. in Epidemiology, the University of Melbourne, 2019
 
 Work experience
