@@ -6,7 +6,7 @@ excerpt: 'Main findings: catch-up growth in the first 2 years or a persistentl
 date: 2023-07-04
 venue: 'Clinical & Experimental Allergy'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/cea.14366'
-citation: 'Chang, C-L, Ali, GB, Pham, J, et al. Childhood body mass index trajectories and asthma and allergies: A systematic review. Clin Exp Allergy. 2023; 00: 1- 19. doi:10.1111/cea.14366'
+citation: 'Chang C-L, Ali GB, Pham J, Dharmage SC, Lodge CJ, Tang ML, Lowe AJ. Childhood body mass index trajectories and asthma and allergies: A systematic review. Clin Exp Allergy. 2023; 00: 1- 19. doi:10.1111/cea.14366'
 ---
 
 # Abstract
