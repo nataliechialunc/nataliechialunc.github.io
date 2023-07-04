@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* 2021: Research Assistant
+* 2022: Research Assistant
   * Taiwan Young Pharmacists' Association & Taiwan Society of Health-System Pharmacists
   * Duties included: Conducting a systematic review on pharmaceutical care practices in Taiwan
   * Supervisor: Associate Professor Elizabeth Chang
 
-* 2020: Project Officer
+* 2021: Project Officer
   * Taichung National Health Insurance Contracted Pharmacy Association
   * Duties included: Implemented a nationwide project supervised by the Health Promotion Administration, Ministry of Health and Welfare: Facilitating Health  Promotion in Community Pharmacy Initiative
   
