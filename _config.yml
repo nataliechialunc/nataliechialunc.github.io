@@ -84,7 +84,7 @@ author:
   name             : "Chia-Lun (Natalie) Chang"
   avatar           : "notion-avatar-1667791030462.png"
   bio              : "MSc (Epi) BSc (Pharm)"
-  location         : "Taiwan"
+  location         : "Australia"
   employer         :
   pubmed           :  # example: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
@@ -256,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Asia/Taipei # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Australia/Melbourne # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
