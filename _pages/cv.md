@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+*PhD in Medicine, Denistry and Health Science, the University of Melbourne, 2023- current
 * MSc. in Epidemiology, the University of Melbourne, 2020
 * BSc. in Pharmacy, Chia Nan University of Science, 2017
 
@@ -57,4 +58,5 @@ Teaching
   
 Service and leadership
 ======
+* Secretary- Graduate Student Researcher Association of MSPGH, 2023 August- current
 * Team leader- Global Health Online Hackathon, 2020
