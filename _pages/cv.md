@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*PhD in Medicine, Denistry and Health Science, the University of Melbourne, 2023- current
+* PhD in Medicine, Denistry and Health Science, the University of Melbourne, 2023- current
 * MSc. in Epidemiology, the University of Melbourne, 2020
 * BSc. in Pharmacy, Chia Nan University of Science, 2017
 
