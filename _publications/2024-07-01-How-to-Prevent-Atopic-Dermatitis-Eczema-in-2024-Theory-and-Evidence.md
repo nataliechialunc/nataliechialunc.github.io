@@ -2,7 +2,7 @@
 title: "How to Prevent Atopic Dermatitis (Eczema) in 2024: Theory and Evidence"
 collection: publications
 permalink: /publication/2024-07-01-How-to-Prevent-Atopic-Dermatitis-Eczema-in-2024-Theory-and-Evidence
-excerpt: NA
+excerpt: Latest update on atopic dermatitis prevention in 2024
 date: 2024-07-01
 venue: 'the Journal of Allergy and Clinical Immunology: In Practice'
 paperurl: 'https://www.jaci-inpractice.org/article/S2213-2198(24)00434-3/fulltext'
