@@ -50,13 +50,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Secretary- Graduate Student Researcher Association of MSPGH, 2023 August- current
+* Co chiar- Graduate Student Researcher Association of MSPGH, 2024 September- current
+* Secretary- Graduate Student Researcher Association of MSPGH, 2023 August- 2024 September
 * Team leader- Global Health Online Hackathon, 2020
