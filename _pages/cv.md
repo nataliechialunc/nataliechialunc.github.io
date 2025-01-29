@@ -53,6 +53,6 @@ Talks
   
 Service and leadership
 ======
-* Co chiar- Graduate Student Researcher Association of MSPGH, 2024 September- current
+* Co chair- Graduate Student Researcher Association of MSPGH, 2024 September- current
 * Secretary- Graduate Student Researcher Association of MSPGH, 2023 August- 2024 September
 * Team leader- Global Health Online Hackathon, 2020
