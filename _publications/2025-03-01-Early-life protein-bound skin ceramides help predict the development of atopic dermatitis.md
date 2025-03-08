@@ -6,7 +6,7 @@ excerpt: 'Main findings: Reduced levels of protein-bound skin ceramides in early
 date: 2025-03-01
 venue: 'The Journal of Allergy and Clinical Immunology'
 paperurl: 'https://www.jacionline.org/article/S0091-6749(24)01243-0/fulltext'
-citation: 'Chang, C. L., Berdyshev, E., Milanzi, E., Lodge, C. J., Lopez, D. J., Bronova, I., ... & Lowe, A. J. (2025). Early-life protein-bound skin ceramides help predict the development of atopic dermatitis. Journal of Allergy and Clinical Immunology.'
+citation: 'Chang C-L, Berdyshev, E, Milanzi E, Lodge CJ, Lopez DJ, Bronova I, Koplin J, Peters RL, Tang MLK, Dharmage SC, Abramson MJ, Hui J, Varigos G, Perrett K, Sasi A, Perret JL, Su J, Robinson PD, Leung DYM, Lowe AJ. Early Life Protein-Bound Skin Ceramides Help Predict the Development of Atopic Dermatitis. Journal of Allergy and Clinical Immunology: 2025. 155;856-64.'
 ---
 
 # Abstract
