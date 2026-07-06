@@ -38,10 +38,15 @@ Work experience
   * Taichung National Health Insurance Contracted Pharmacy Association
   * Duties included: Implemented a nationwide project supervised by the Health Promotion Administration, Ministry of Health and Welfare: Facilitating Health  Promotion in Community Pharmacy Initiative
   
+Awards
+======
+* Outstanding oral abstract presentation award, European Academy of Allergy and Clinical Immunology (EAACI) Congress 2026 
+* Third place and people's choice award 3MT thesis Hear, Melbourne School of Population and Global Health (MSPGH) 2025
+* Team leader- Global Health Online Hackathon, 2020
   
 Leadership
 ======
-* Co chair- Graduate Student Researcher Association of Melbourne School of Population and Global Health (MSPGH), 2024 September- current
+* Co chair- Graduate Student Researcher Association of Melbourne School of Population and Global Health (MSPGH), 2024 September- 2025 September
 * Secretary- Graduate Student Researcher Association of MSPGH, 2023 August- 2024 September
 * Team leader- Global Health Online Hackathon, 2020
 
