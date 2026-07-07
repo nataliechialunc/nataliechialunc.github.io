@@ -26,5 +26,7 @@ Reduced levels of 6 protein-bound ω-hydroxyl sphingosine (POS) ceramides with C
 Reduced levels of POS ceramides are associated with the development of nonatopic AD, suggesting that these lipids may play a role in the pathogenesis of AD and may be useful predictive biomarkers. Interventions that increase POS ceramides may reduce the incidence of AD.
 
 [Read paper here](https://www.jacionline.org/article/S0091-6749(24)01243-0/fulltext)
+
 [Media Channel 9](https://www.nine.com.au/australia-news/videos/natural-fats-in-babies-skin-can-help-predict-if-theyll-develop-eczema-study-shows/cm8fidgrp00040ho9n89aw3dm)
+
 [AAAAI Website](https://www.aaaai.org/tools-for-the-public/latest-research-summaries/the-journal-of-allergy-and-clinical-immunology/2025)
