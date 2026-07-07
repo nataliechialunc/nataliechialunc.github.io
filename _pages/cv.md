@@ -42,7 +42,7 @@ Awards
 ======
 * Outstanding oral abstract presentation award, European Academy of Allergy and Clinical Immunology (EAACI) Congress 2026 
 * Third place and people's choice award 3MT thesis Hear, Melbourne School of Population and Global Health (MSPGH) 2025
-* Team leader- Global Health Online Hackathon, 2020
+
   
 Leadership
 ======
